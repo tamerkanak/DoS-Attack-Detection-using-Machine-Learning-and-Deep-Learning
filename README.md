@@ -30,6 +30,6 @@ The models are evaluated based on the following metrics:
 To run the code locally, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/DoS-Attack-Detection.git
+git clone https://github.com/tamerkanak/DoS-Attack-Detection-using-Machine-Learning-and-Deep-Learning.git
 cd DoS-Attack-Detection
 pip install -r requirements.txt
